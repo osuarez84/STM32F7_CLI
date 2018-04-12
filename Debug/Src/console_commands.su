@@ -1,0 +1,4 @@
+console_commands.c:60:25:ConsoleCommandVer	8	static
+console_commands.c:50:25:ConsoleCommandLED	8	static
+console_commands.c:29:25:ConsoleCommandHelp	24	static
+console_commands.c:71:31:ConsoleCommandsGetTable	0	static

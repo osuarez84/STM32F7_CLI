@@ -1,0 +1,7 @@
+main.c:115:1:__io_putchar	24	static
+main.c:134:1:__io_getchar	24	static
+main.c:154:6:SystemClock_Config	216	static
+main.c:69:5:main	56	static
+main.c:359:6:HAL_UART_TxCpltCallback	0	static
+main.c:368:6:HAL_UART_RxCpltCallback	8	static
+main.c:391:6:_Error_Handler	0	static

@@ -1,0 +1,3 @@
+OS_uart_command.c:33:19:OS_HAL_UART_Receive_IT	0	static
+OS_uart_command.c:184:19:OS_UART_Receive_IT	16	static
+OS_uart_command.c:75:6:OS_HAL_USART_command_IRQHandler	16	static
